@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCProjects_Medico.props" />
+</Project>

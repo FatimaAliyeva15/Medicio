@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoBusiness.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoBusiness.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoBusiness.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoData.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoData.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\bin\Debug\net7.0\MVCProjects_MedicoCore.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\refint\MVCProjects_MedicoBusiness.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\MVCProjects_MedicoBusiness.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoBusiness\obj\Debug\net7.0\ref\MVCProjects_MedicoBusiness.dll

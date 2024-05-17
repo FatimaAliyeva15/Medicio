@@ -1,0 +1,12 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\bin\Debug\net7.0\MVCProjects_MedicoCore.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\bin\Debug\net7.0\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\bin\Debug\net7.0\MVCProjects_MedicoCore.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\refint\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\ref\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoCore\obj\Debug\net7.0\MVCProjects_MedicoCore.csproj.AssemblyReference.cache

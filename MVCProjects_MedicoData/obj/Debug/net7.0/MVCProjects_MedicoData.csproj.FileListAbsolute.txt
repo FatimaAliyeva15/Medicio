@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoData.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoData.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoData.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoCore.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoCore.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\refint\MVCProjects_MedicoData.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\ref\MVCProjects_MedicoData.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\bin\Debug\net7.0\MVCProjects_MedicoData.runtimeconfig.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\MVCProjects_MedicoData\obj\Debug\net7.0\MVCProjects_MedicoData.genruntimeconfig.cache
